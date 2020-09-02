@@ -1,2 +1,5 @@
-# IST-718-Filght-Delay-Cancellation-Prediction-Big-Data-Analytics-
-Performed exploratory data analysis and feature engineering for dataset over 5.8 million records • Developed classification and regression models to predict flight delays and cancellations from various features by building pyspark pipelines • Used PySpark ML to train logistic regression, Random Forest, SVM and Gradient boosting trees models, performed hyper-parameter tuning and assessed generalization performance
+# Filght-Delay-Cancellation-Prediction
+
+- Performed EDA and feature engineering on flight dataset consisting of 5.8 million records
+- Developed classification and regression models to predict flight delays and cancellations using pyspark pipelines
+- Trained logistic regression, Random Forest using Pyspark ML
